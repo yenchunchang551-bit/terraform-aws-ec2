@@ -1,3 +1,7 @@
+# Local configs
+configs
+*.pem
+
 # Local .terraform directories
 .terraform/
 

@@ -1,0 +1,2 @@
+This project uses Terraform to provision an EC2 instance with a security group and SSH key pair.
+User data is used to bootstrap the instance with Nginx.
