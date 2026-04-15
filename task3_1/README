@@ -2,4 +2,4 @@ This project uses Terraform to provision an EC2 instance with a security group a
 User data is used to bootstrap the instance with Nginx.
 
 
-![Architecture Diagram](infra.png)
+![Architecture Diagram](./infra.png)
